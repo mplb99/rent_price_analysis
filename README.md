@@ -1,3 +1,2 @@
-# rent_price_analysis
-# rent_price_analysis
-# rent_price_analysis
+# This is the main files necessary for running rent price analysis program.
+
